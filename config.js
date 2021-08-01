@@ -3,7 +3,7 @@ module.exports = {
   password: process.env.ACCOUNT_PASSWORD,
   sharedSecret: process.env.SHARED_SECRET,
   
-  bannedPhrases: [`Thanks for participating`, `Congratulations you won`, `we will send you your prize in 5 minutes`, `leave your link`, `Free CSGO Skins`, `no deposit`, `Only for new users`, `free SKIN CS:GO`, `Поздравляем`],
+  bannedPhrases: [`Thanks for participating`, `Congratulations you won`, `we will send you your prize in 5 minutes`, `leave your link`, `Free CSGO Skins`, `no deposit`, `Only for new users`, `free SKIN CS:GO`, `Поздравляем`, `1 frее SКIN СS:GО`],
   publicUsername: `Anti-Spam BOT`,
   inGameName: `Anti-Spam BOT`
 };
